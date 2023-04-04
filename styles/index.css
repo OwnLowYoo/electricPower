@@ -1,0 +1,11 @@
+.nav-link{
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active{
+    color: #9892ff;
+}
+
+.navbar-brand img {
+    width: 250px;
+}
