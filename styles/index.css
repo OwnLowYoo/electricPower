@@ -9,3 +9,7 @@
 .navbar-brand img {
     width: 250px;
 }
+
+.navbar-toggler {
+    background-color: #ff0057;
+}
