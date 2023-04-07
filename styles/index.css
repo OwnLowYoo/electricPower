@@ -25,7 +25,7 @@ body{
     border-radius: 15px;
 }
 .form-control {
-    width: 400px; /* Изменяем ширину поисковой строки */
+    width: 400px;
     display: inline-block;
     border: 4px solid #c8c7c7;
     border-radius: 0;
@@ -36,6 +36,39 @@ body{
     border: 4px solid red;
 
 }
+
+.slide-text{
+    color: black ;
+    margin: auto auto ;
+}
+
+.Slide{
+    color: #ff0057;
+}
+
+.carousel-inner {
+    height: 300px;
+    border-radius: 60px;
+    background-color: white;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.images{
+    max-width: 30%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%);
+}
+
+
+
+
 
 
 
